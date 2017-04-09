@@ -1,4 +1,4 @@
-#				ARTIFIcIAL INTELLIGENCE
+#				ARTIFICIAL INTELLIGENCE
 #	Using genetic algorithm to solve the traveling salesman problem(TSP)
 #   	By: Mayara Simoes de Oliveira Castro
 
