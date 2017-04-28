@@ -1,3 +1,3 @@
-# AGs
+# GAs
 
 A repository for problem solutions using genetic algorithm made by Mayara Castro.
